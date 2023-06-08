@@ -66,7 +66,7 @@ Mapping users, keeping commit comments, and other data migrations are more compl
 
   :sparkles: Terrific! @{{ user.username}} since you already have the project locally, you are _almost_ ready to move it to GitHub.
 
-  But, this course guides you through the necessary steps to migrate your repository from another version control system unto GitHub. Since your project is already on your local machine, you need slightly different instructions. Please join the [Uploading your local project to GitHub]({{ host }}/githubtraining/uploading-your-project-to-github) course to learn how to handle your case.
+  But, this course guides you through the necessary steps to migrate your repository from another version control system unto GitHub. Since your project is already on your local machine, you need slightly different instructions. Please join the [Uploading your local project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github) course to learn how to handle your case.
 
   <hr>
 </details>
